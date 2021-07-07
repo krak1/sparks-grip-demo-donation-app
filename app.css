@@ -77,6 +77,9 @@ span {
 	font-weight: 100;
 	font-size: 3rem;
 	}
+	img[src="imgs/hand2.jpg"] {
+		display: None;
+	}
 }
 
 
