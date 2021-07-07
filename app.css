@@ -77,9 +77,25 @@ span {
 	font-weight: 100;
 	font-size: 3rem;
 	}
-	img[src="imgs/hand2.jpg"] {
-		display: None;
-	}
+}
+@media (max-width: 1080px) {
+    #headingGroup h1 {
+    font-weight: 100;
+    font-size: 2rem;
+    }
+}
+@media (max-width: 720px) {
+    #headingGroup h1 {
+    font-weight: 100;
+    font-size: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    #headingGroup h1 {
+    font-weight: 100;
+    font-size: 1.5rem;
+    }
 }
 
 
